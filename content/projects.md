@@ -17,7 +17,9 @@ sections:
         folders:
           - project
     design:
+    # Choose your content listing view: article-grid/showcase/compact/card/citation/list
       view: article-grid
       fill_image: false
-      columns: 3
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
